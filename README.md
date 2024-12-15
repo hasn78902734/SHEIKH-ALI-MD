@@ -24,10 +24,10 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
 <a href="hhttps://github.com/Sheikh-ali-2412/"><img title="Followers" src="https://img.shields.io/github/followers/SHEIKH_ALI_AHMAD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?style=flat-square&color=blue"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sheikh-ali-2412/SHEIKH-ALI-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -104,7 +104,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 
 `✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
