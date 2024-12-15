@@ -62,6 +62,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 `✠  CLICK THIS RED BUTTON 🔳 AND JOIN OUR CHANNEL ✠`
+
 <a href="[https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -158,5 +159,5 @@ jobs:
 | [![Owner](https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-***⚠️THANKS FOR USING SHEIKH-ALI-AHMAD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-AHMAD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
+***⚠️THANKS FOR USING SHEIKH-ALI-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-AHMAD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
