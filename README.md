@@ -35,7 +35,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-AHMAD/count.svg" /><br>SHEIKH-ALI-AHMAD</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+
 
  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikh-ali-2412%2FSHEIKH-ALI-AHMAD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
@@ -85,7 +85,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
@@ -101,7 +101,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
+
 
 `✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
@@ -115,7 +115,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 <hr>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐖𝐎𝐑𝐊𝐅𝐋𝐎𝐖𝐒)](https://git.io/typing-svg)
+
 ```
 name: Node.js CI
 
@@ -154,7 +154,7 @@ jobs:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=blue&lines=𝐎𝐖𝐍𝐄𝐑+:+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐑𝐎𝐐)](https://git.io/typing-svg)              
+              
 |--------------------------------|
 | [![Owner](https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
 
