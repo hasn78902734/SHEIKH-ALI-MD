@@ -94,14 +94,14 @@ let up = `*╭──────────────●●►*
 
 *╭⊱✫ 𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃 ✫⊱╮*
 *│✫➠ - 📂REPOSITORY NAME:* *𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐍𝐃*
-*│✫➠ - 📃DESCRIPTION:* *PAKISTANI BEST BOT*
+*│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT CREATED BY 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼²⁴⁰⁶*
 *│✫➠ - 🛡️OWNER:* *𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼*
 *│✫➠ - 🌐URL:* *https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/4rihkc.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg` }, caption: up })
 
 }
 })
