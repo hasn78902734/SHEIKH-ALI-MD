@@ -12,13 +12,6 @@ src="https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg"/>
 
   <a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD./fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SHEIKH ALI MD" width="150"></a>
 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <br> `ANGEL MD WEBPAGE`
-<p align="left">
-<a href="https://sobia-md-pair.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/WebPage-black?style=for-the-badge&logo=google"></a>
-<p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <br> `SHEIKH ALI MD SESSION`
@@ -44,5 +37,42 @@ src="https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg"/>
   
 
 
+### <br>   ❖ DEPLOY_WORKFLOWS ❖
+```
+name: Node.js CI
 
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+-----------
 
