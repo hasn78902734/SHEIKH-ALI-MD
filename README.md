@@ -33,6 +33,3 @@ src="https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg"/>
 <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img height= "35" title="Author" src="https://img.shields.io/badge/Join-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD)
