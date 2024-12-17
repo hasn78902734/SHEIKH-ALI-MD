@@ -1,6 +1,6 @@
 {
   "name": "SHEIKH-ALI-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟɪᴀʜᴍᴀᴅ²⁴⁰⁶",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼",
   "logo": "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -52,7 +52,7 @@
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -70,7 +70,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "FAKE_RECORDING": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ✦"
+      "value": "✦🅂🄷🅴🅸🅺🄷  🄰🄻🅸✦"
     }, 
 
     "HEART_REACT": {
@@ -108,23 +108,7 @@
       "description": "Make it true if you want bot read your all sms just now.",
       "required": true,
       "value": "false"
-    }, 
-    "CAPTION": {
-      "description": "enter your caption if you want to show on menu.",
-      "required": true,
-      "value": "POWERED BY SILENTLOVER432"
-    }, 
-    "STATUS_REPLY": {
-      "description": "enter your caption if you want to show on status reply.",
-      "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ♥️🌸⃝𝐂𝐮𝐭𝐞 𝐬𝐡𝐞𝐢𝐤𝐡ᥫ᭡👑"
-    },
-    "AUTO_REPLY_STATUS": {
-      "description": "you can true or false it.",
-      "required": true,
-      "value": "true"
     }
-
 
 },
 
