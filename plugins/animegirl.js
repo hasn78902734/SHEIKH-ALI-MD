@@ -20,7 +20,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `❮❮❮ *SHEIKH-ALI-AHMAD ANIME PHOTOS* ❯❯❯`
+let dec = `❮❮❮ *SHEIKH-ALI-MD ANIME PHOTOS* ❯❯❯`
 await conn.sendMessage(from,{image:{url: `https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg`},caption:dec},{quoted:mek});
 await conn.sendMessage(from,{image:{url: `https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg`},caption:dec},{quoted:mek});
 await conn.sendMessage(from,{image:{url: `https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg`},caption:dec},{quoted:mek});
@@ -48,7 +48,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-AHMAD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-AHMAD BY SHEIKH_ALI_AHMAD*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-MD BY ALI_AHMAD_FAROOQ*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`*Error Fetching Anime Girl image*: ${e.message}`);
@@ -68,12 +68,12 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-AHMAD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-AHMAD BY SHEIKH_ALI_AHMAD*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-MD BY ALI_AHMAD_FAROOQ*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`*Error Fetching Anime Girl image*: ${e.message}`);
     }
-});
+}); you 
 
 cmd({
     pattern: "animegirl2",
@@ -88,7 +88,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-AHMAD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-AHMAD BY SHEIKH_ALI_AHMAD*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-MD BY ALI_AHMAD_FAROOQ*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`*Error Fetching Anime Girl image*: ${e.message}`);
@@ -108,7 +108,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-AHMAD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-AHMAD BY SHEIKH_ALI_AHMAD*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-MD BY ALI_AHMAD_FAROOQ*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`*Error Fetching Anime Girl image*: ${e.message}`);
@@ -128,7 +128,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-AHMAD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-AHMAD BY SHEIKH_ALI_AHMAD*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-MD BY  ALI_AHMAD_FAROOQ*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`*Error Fetching Anime Girl image*: ${e.message}`);
@@ -148,7 +148,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-AHMAD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-AHMAD BY SHEIKH_ALI_AHMAD*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-MD BY ALI-AHMAD-FAROOQ*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`*Error Fetching Anime Girl image*: ${e.message}`);
@@ -169,7 +169,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-AHMAD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-AHMAD BY SHEIKH_ALI_AHMAD*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SHEIKH-ALI-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SHEIKH-ALI-MD BY ALI_AHMAD_FAROOQ*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`*Error Fetching Anime Girl image*: ${e.message}`);

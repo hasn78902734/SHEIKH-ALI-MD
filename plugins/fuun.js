@@ -32,7 +32,7 @@ const axios = require('axios');
                                  const synonyms = definitionData.meanings[0].definitions[0].synonyms.join(', ') || 'No synonyms available';
 
 const wordInfo = `
-*[ •  SHEIKH-ALI-AHMAD - DEFINE ‎ • ]*
+*[ •  SHEIKH-ALI-MD - DEFINE ‎ • ]*
 *╭┈───────────────•*
 *│  ◦* 📚 *WORD*: ${definitionData.word}
 *│  ◦*
@@ -42,11 +42,11 @@ const wordInfo = `
 *│  ◦*
 *│  ◦* 🔗 *SYNONYMS*: ${synonyms}
 *│  ◦*
-*│  ◦* *MADE WITH ♥ SHEIKH-ALI-AHMAD*
+*│  ◦* *MADE WITH ♥ SHEIKH-ALI-MD*
 *╰┈───────────────•*
 
 *•────────────•⟢*
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱʜᴇɪᴋʜ_ᴀʟɪ_ᴀʜᴍᴀᴅ*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼*
 *•────────────•⟢*
 `;
 
@@ -73,7 +73,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.message }, caption: 'SHEIKH-ALI-AHMAD DOWNLOAD📂DOG PICS\n\n\n> *BY SHEIKH-ALI-AHMAD*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.message }, caption: 'SHEIKH-ALI-MD DOWNLOAD📂DOG PICS\n\n\n> *BY SHEIKH-ALI-MD*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`Error Fetching Dog Image🤕: ${e.message}`);
@@ -94,14 +94,14 @@ async (conn, mek, m, { from, q, reply }) => {
         const fact = response.data.text;
 
         const funFact = `
-*[ •  SHEIKH-ALI-AHMAD - RANDOM FACT‎ • ]*
+*[ •  SHEIKH-ALI-MD - RANDOM FACT‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *${fact}*
 *╰┈───────────────•*
 Isn't that interesting? 😄
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱʜᴇɪᴋʜ_ᴀʟɪ_ᴀʜᴍᴀᴅ
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
 *•────────────•⟢*
 `;
 
@@ -125,7 +125,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const response = await axios.get(url);
         const joke = response.data;
         const jokeMessage = `
-*[ •  SHEIKH-ALI-AHMAD - RANDOM JOKE‎ • ]*
+*[ •  SHEIKH-ALI-MD - RANDOM JOKE‎ • ]*
 *╭┈───────────────•*
 *│  ◦* 😂 *Here's a random joke for you!* 😂
 *│  ◦* *${joke.setup}*
@@ -133,7 +133,7 @@ async (conn, mek, m, { from, q, reply }) => {
 *╰┈───────────────•*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱʜᴇɪᴋʜ_ᴀʟɪ_ᴀʜᴍᴀᴅ
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
 *•────────────•⟢*
 `;
         return reply(jokeMessage);
@@ -155,15 +155,15 @@ async (conn, mek, m, { from, reply }) => {
         const response = await axios.get('https://api.quotable.io/random');
         const quote = response.data;
         const message = `
-*[ •  SHEIKH-ALI-AHMAD - QUOTE ‎ • ]*
+*[ •  SHEIKH-ALI-MD - QUOTE ‎ • ]*
 *╭┈───────────────•*
 *│  ◦* 💬 "${quote.content}"
 *│  ◦* - ${quote.author}
-*│  ◦* *QUOTES BY SHEIKH-ALI-AHMAD*
+*│  ◦* *QUOTES BY SHEIKH-ALI-MD*
 *╰┈───────────────•*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱʜᴇɪᴋʜ_ᴀʟɪ_ᴀʜᴍᴀᴅ
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
 *•────────────•⟢*
 `;
         return reply(message);

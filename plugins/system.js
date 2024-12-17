@@ -56,7 +56,7 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 
 try{
 let madeSetting =`
-*[ •  SHEIKH-ALI-AHMAD - SETTINGS‎ • ]*
+*[ •  SHEIKH-ALI-MD - SETTINGS‎ • ]*
 *╭┈───────────────•*
 *┊* *♾️ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
 *┊* *♾️ MODE:* ➠ ${config.MODE} 
@@ -99,7 +99,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let status = `
-*[ •  SHEIKH-ALI-AHMAD - UPTIME ‎ • ]*
+*[ •  SHEIKH-ALI-MD - UPTIME ‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *_UPTIME:➠_*
 *│  ◦* ${runtime(process.uptime())}
@@ -140,9 +140,9 @@ let repo =`
 *│  ◦* *𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼*
 *╰┈───────────────•*
 
-*[ •  SHEIKH-ALI-AHMAD - REPO ‎ • ]*
+*[ •  SHEIKH-ALI-MD - REPO ‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD*
+*│  ◦* *https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD*
 *╰┈───────────────•*
 
 *[ •  SUPPORT - GROUP‎ • ]*
@@ -166,11 +166,11 @@ await conn.sendMessage(from, { text: repo ,
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SHEIKH-ALI-AHMAD',
+title: 'SHEIKH-ALI-MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD" ,
-thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg" ,
+sourceUrl: "https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD" ,
+thumbnailUrl: "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }

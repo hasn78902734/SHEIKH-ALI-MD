@@ -1,7 +1,7 @@
 /*
-created by 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ 🕵
+created by ????.?????? ??? ???
 contact me 923143702270 ♻️
-© Copy coder alert ⚠
+© Copy coder alert �?
 */
 
 
@@ -20,8 +20,8 @@ async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
         const ownerNumber = '+923143702270'; // Replace this with the actual owner number
-        const ownerName = '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼'; // Replace this with the owner's name
-        const organization = 'صلی اللہ علیہ وسلم'; // Optional: replace with the owner's organization
+        const ownerName = '????.?????? ??? ???'; // Replace this with the owner's name
+        const organization = '??? ???? ???? ????'; // Optional: replace with the owner's organization
 
         // Create a vCard (contact card) for the owner
         const vcard = 'BEGIN:VCARD\n' +

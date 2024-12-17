@@ -35,7 +35,7 @@ async (conn, mek, m, { from, q, reply }) => {
 
         const translationMessage = `
 ╭┈───────────────•
-│ *[ • SHEIKH-ALI-AHMAD - TRANSLATION‎ • ]*
+│ *[ • SHEIKH-ALI-MD - TRANSLATION‎ • ]*
 ╰┈───────────────•
 ╭┈───────────────•
 │  ◦ 🔤 *Original*: ${textToTranslate}
@@ -44,7 +44,7 @@ async (conn, mek, m, { from, q, reply }) => {
 │  ◦ 
 │  ◦ 🌐 *Language*: ${targetLang.toUpperCase()}
 │  ◦
-│  ◦ 📬 *SHEIKH-ALI-AHMAD CREATION*
+│  ◦ 📬 *SHEIKH-ALI-MD CREATION*
 ╰┈───────────────•
 
 *•────────────•⟢*

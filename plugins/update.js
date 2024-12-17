@@ -21,7 +21,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/SHEIKHALI40/SHEIKH-ALI-AHMAD.git'; // لینک مخزن گیت‌هاب
+        const repoUrl = 'https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD.git'; // لینک مخزن گیت‌هاب
         const targetFolder = 'plugins'; // پوشه‌ای که باید به‌روز شود
 
         // بررسی وجود پوشه هدف

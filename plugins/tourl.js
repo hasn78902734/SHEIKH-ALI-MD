@@ -39,7 +39,7 @@ async(conn, mek, m, {from, quoted, body, isCmd, command, args, q, isGroup, sende
         let uploadedFile = await shannzCdn(filePath);
         
         if (uploadedFile && uploadedFile.status && uploadedFile.result?.url) {
-            const message = `*✅ SUCCESSFUL UPLOAD!*\n\n🔗 *DIRECT LINK:*\n${uploadedFile.result.url}\n\n> POWERED BY NOTHING`;
+            const message = `*✅ SUCCESSFUL UPLOAD!*\n\n🔗 *DIRECT LINK:*\n${uploadedFile.result.url}\n\n> POWERED BY ALIAHMAD²⁴⁰⁶`;
             await conn.sendMessage(from, { text: message });
         } else {
             await reply("*❌ Failed to upload the file or retrieve the link.*");
