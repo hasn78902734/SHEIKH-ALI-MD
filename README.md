@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=SHEIKH ALI WHATSAPP BOT;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALI+AHMAD;RELEASED+DATE+14%2F12%2F2024." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=SHEIKH ALI WHATSAPP BOT;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALI+AHMAD;RELEASED+DATE+00%2F00%2F0000." alt="Typing SVG" /></a>
 <p
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -9,7 +9,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20AHMAD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SHEIKH%20ALI%20AHMAD%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD%20AND%20UMAIR%20BOSS♥️&image=https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg?v=4&backgroundColor=%23ecf0f1&github=SHEIKH_ALI_2406&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg?v=4&backgroundColor=%23ecf0f1&github=SHEIKH_ALI-2412&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_AHMAD...;Created+by+SHEIKH+ALI...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH-ALI-AHMAD..."
