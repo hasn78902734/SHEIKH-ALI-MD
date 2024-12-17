@@ -1,9 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=SHEIKH ALI WHATSAPP BOT;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALI+AHMAD;RELEASED+DATE+00%2F00%2F0000." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=SHEIKH ALI MD WHATSAPP BOT;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALI+AHMAD;RELEASED+DATE+00%2F00%2F0000." alt="Typing SVG" /></a>
 <p
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=`ALI+AHMAD+WHATSAPP+BOT+DEVELOPER`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=ALI+AHMAD+WHATSAPP+BOT+DEVELOPER" alt="">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ------------
