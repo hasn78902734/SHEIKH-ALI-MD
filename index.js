@@ -54,7 +54,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING SHEIKH-ALI-MD BOT🧬...");
+console.log("CONNECTING SILENT-SOBX-MD BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -82,12 +82,12 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('SHEIKH-ALI-MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*[ •  𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ - STARTED‎ • ]*
-*╭┈────────────────•*
-*│  ◦* *_Congratulations Your Bot Active Successfully_*
+*[ •  SHEIKH-ALI-MD - STARTED‎ • ]*
+*╭┈───────────────•*
+*│  ◦* *_Congratulations Your Bot Active Successfully. Type ".menu" to get command list_*
 *│  ◦*
 *│  ◦* *❁ 𝕁𝕠𝕚𝕟 𝕠𝕦𝕣 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝕔𝕙𝕒𝕟𝕟𝕖𝕝 ❁*
 *│  ◦*
@@ -96,16 +96,16 @@ let up = `
 *│  ◦* *❁ 𝕁𝕠𝕚𝕟 𝕠𝕦𝕣 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝕘𝕣𝕠𝕦𝕡 ❁*
 *│  ◦*
 *│  ◦* *https://chat.whatsapp.com/BobH0xeN4YQ6QAMELpk4i0*
-*╰┈─────────────────•*
+*╰┈───────────────•*
 *[ •  B O T  - R E P O ‎ • ]*
-*╭┈─────────────────•*
-*│✫➠ - 🌐URL:* *https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD*
-*╰┈─────────────────•*
+*╭┈───────────────•*
+*│✫➠ - 🌐URL:* *https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD.git*
+*╰┈───────────────•*
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: [${prefix}]*
 
-*•──────────────────•⟢*
+*•────────────•⟢*
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
-*•──────────────────•⟢*
+*•────────────•⟢*
 `;
 conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg` }, caption: up })
 
