@@ -1,6 +1,6 @@
 {
-  "name": "SHEIKH-ALI-AHMAD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱʜᴇɪᴋʜᴀʟɪ²⁴⁰⁶",
+  "name": "SHEIKH-ALI-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟɪᴀʜᴍᴀᴅ²⁴⁰⁶",
   "logo": "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HI DEAR I'M ONLINE I'M 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ WHATSAPP BOT 😊♻️.!!"
+      "value": "HI DEAR I'M ONLINE I'M 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ WHATSAPP BOT 😊♻️"
     },
     
     "PREFIX": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴀʜᴍᴀᴅ✦"
+      "value": "✦ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ✦"
     }, 
 
     "HEART_REACT": {
@@ -112,12 +112,17 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼"
+      "value": "POWERED BY SILENTLOVER432"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ☞ 𒁂𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 𝑨𝑯𝑴𝑨𝑫🔥༽༼гՇ࿐𒁂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ♥️🌸⃝𝐂𝐮𝐭𝐞 𝐬𝐡𝐞𝐢𝐤𝐡ᥫ᭡👑"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "you can true or false it.",
+      "required": true,
+      "value": "true"
     }
 
 
