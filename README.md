@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=`SHEIKH+ALI+WHATSAPP+BOT+DEVELOPER`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=`ALI+AHMAD+WHATSAPP+BOT+DEVELOPER`" alt="">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ------------
@@ -12,22 +12,22 @@
 src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg?v=4&backgroundColor=%23ecf0f1&github=SHEIKH_ALI-2412&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_AHMAD...;Created+by+SHEIKH+ALI...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH-ALI-AHMAD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_MD...;Created+by+ALI+AHMAD...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH-ALI-MD..."
 
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
-<a href="hhttps://github.com/Sheikh-ali-2412/"><img title="Followers" src="https://img.shields.io/github/followers/SHEIKH_ALI_AHMAD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sheikh-ali-2412/SHEIKH-ALI-AHMAD?style=flat-square&color=blue"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="hhttps://github.com/Sheikh-ali-2412/"><img title="Followers" src="https://img.shields.io/github/followers/SHEIKH_ALI_MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sheikh-ali-2412/SHEIKH-ALI-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-AHMAD/count.svg" /><br>SHEIKH-ALI-AHMAD</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-MD/count.svg" /><br>SHEIKH-ALI-AHMAD</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -57,6 +57,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 `✠  CLICK THIS RED BUTTON 🔳 AND JOIN OUR CHANNEL ✠`
+
 <a href="[https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
