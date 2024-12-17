@@ -58,7 +58,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 
 `✠ CLICK THIS BLUE BUTTON 🔳 AND JOIN OUR WHATSAPP CHANNEL ✠`
 
-<a href="https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
