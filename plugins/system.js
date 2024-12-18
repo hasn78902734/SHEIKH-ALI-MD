@@ -1,4 +1,4 @@
-/*
+/* 
 created by 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ 🕵
 contact me 923143702270 ♻️
 © Copy coder alert ⚠
@@ -73,6 +73,7 @@ let madeSetting =`
 *┊* *♾️ HEART_REACT:* ➠ ${config.HEART_REACT} 
 *┊* *♾️ OWNER_REACT:* ➠ ${config.OWNER_REACT} 
 *┊* *♾️ BOT_NAME:* ➠ ${config.BOT_NAME}
+*┊* *♾️ READ_MESSAGE:* ➠ ${config.READ_MESSAGE}
 *╰┈───────────────•*
 *•────────────•⟢*
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
@@ -110,6 +111,9 @@ let status = `
 *│  ◦* *_HOSTNAME:➠_*
 *│  ◦* ${os.hostname()}
 *│  ◦*
+*│  ◦* *_PLATFORM:➠_*
+*│  ◦* ${process.env.DYNO ? "Heroku" : "Localhost"}
+*│  ◦*
 *╰┈───────────────•*
 
 *•────────────•⟢*
@@ -137,17 +141,17 @@ try{
 let repo =`
 *[ •  B O T - O W N E R ‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼*
+*│  ◦* *ALIAHMAD 2406*
 *╰┈───────────────•*
 
-*[ •  SHEIKH-ALI-MD - REPO ‎ • ]*
+*[ •  SHEIKH-ALI--MD - REPO ‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD*
 *╰┈───────────────•*
 
 *[ •  SUPPORT - GROUP‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *https://chat.whatsapp.com/BobH0xeN4YQ6QAMELpk4i0*
+*│  ◦* *https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B*
 *╰┈───────────────•*
 
 *•────────────•⟢*
@@ -162,7 +166,7 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "SHEIKHALI2406",
+      newsletterName: "Sheikh-ali-2412",
       serverMessageId: 999
     },
 externalAdReply: { 
