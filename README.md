@@ -17,15 +17,28 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<p align="center">
-<a href="hhttps://github.com/Sheikh-ali-2412/"><img title="Followers" src="https://img.shields.io/github/followers/SHEIKH_ALI_MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sheikh-ali-2412/SHEIKH-ALI-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
+
+<div align="center">
+    <a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD">
+        <img title="Author" src="https://img.shields.io/badge/𝑺𝑯𝑬𝑰𝑲𝑯%20𝑨𝑳𝑰%20𝑴𝑫?style=for-the-badge&logo=github">
+    </a>
+    <br>
+    <a href="https://github.com/Sheikh-ali-2412?tab=followers">
+        <img title="Followers" src="https://img.shields.io/github/followers/Sheikh-ali-2412?label=Followers&style=social">
+    </a>
+    <a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/stargazers/">
+        <img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-MD?style=social">
+    </a>
+    <a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/network/members">
+        <img title="Fork" src="https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-MD?style=social">
+    </a>
+    <a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/watchers">
+        <img title="Watching" src="https://img.shields.io/github/watchers/https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD?label=Watching&style=social">
+    </a>
+</div>
+
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝑺𝑯𝑬𝑰𝑲𝑯-𝑨𝑳𝑰-𝑴𝑫</h1>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-MD/count.svg" /><br>SHEIKH-ALI-AHMAD</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
