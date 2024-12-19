@@ -1,6 +1,6 @@
-/* 
-created by 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ 🕵
-contact me 923143702270 ♻️
+/*
+created by SHEIKH_ALI
+contact me 923143702270
 © Copy coder alert ⚠
 */
 
