@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=SHEIKH MD WHATSAPP BOT;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALI+AHMAD;RELEASED+DATE+00%2F00%2F0000." alt="Typing SVG" /></a>
+44<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=SHEIKH MD WHATSAPP BOT;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALI+AHMAD;RELEASED+DATE+00%2F00%2F0000." alt="Typing SVG" /></a>
 <p
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -104,7 +104,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 
 `✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-AHMAD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/hussu71982/Hassan_Rajpoot_MD)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
