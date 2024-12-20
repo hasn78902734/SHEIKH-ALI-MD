@@ -174,7 +174,7 @@ title: 'SHEIKH-ALI-MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD" ,
-thumbnailUrl: "https://i.imghippo.com/files/yFpQ9125wYo.jpg" ,
+thumbnailUrl: "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
