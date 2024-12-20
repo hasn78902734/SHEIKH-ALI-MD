@@ -166,7 +166,7 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "Sheikh-ali-2412",
+      newsletterName: "ALIAHMAD2406",
       serverMessageId: 999
     },
 externalAdReply: { 
