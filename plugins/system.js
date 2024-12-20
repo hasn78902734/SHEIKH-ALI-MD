@@ -141,10 +141,10 @@ try{
 let repo =`
 *[ •  B O T - O W N E R ‎ • ]*
 *╭┈───────────────•*
-*│  ◦* * 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶*
+*│  ◦* *𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶*
 *╰┈───────────────•*
 
-*[ •  SHEIKH-ALI--MD - REPO ‎ • ]*
+*[ •  SHEIKH-ALI-MD - REPO ‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD*
 *╰┈───────────────•*
@@ -174,7 +174,7 @@ title: 'SHEIKH-ALI-MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD" ,
-thumbnailUrl: "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg" ,
+thumbnailUrl: "https://i.imghippo.com/files/yFpQ9125wYo.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
