@@ -1,6 +1,6 @@
-/* 
-created by 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ 🕵
-contact me 923143702270 ♻️
+/*
+created by ⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ ×͜×
+contact me 923286813475
 © Copy coder alert ⚠
 */
 
@@ -56,7 +56,7 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 
 try{
 let madeSetting =`
-*[ •  SHEIKH-ALI-MD - SETTINGS‎ • ]*
+*[ •  ⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ- MD - SETTINGS‎ • ]*
 *╭┈───────────────•*
 *┊* *♾️ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
 *┊* *♾️ MODE:* ➠ ${config.MODE} 
@@ -73,10 +73,9 @@ let madeSetting =`
 *┊* *♾️ HEART_REACT:* ➠ ${config.HEART_REACT} 
 *┊* *♾️ OWNER_REACT:* ➠ ${config.OWNER_REACT} 
 *┊* *♾️ BOT_NAME:* ➠ ${config.BOT_NAME}
-*┊* *♾️ READ_MESSAGE:* ➠ ${config.READ_MESSAGE}
 *╰┈───────────────•*
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ ×͜×
 *•────────────•⟢*
 `
 
@@ -100,7 +99,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let status = `
-*[ •  SHEIKH-ALI-MD - UPTIME ‎ • ]*
+*[ •  ⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ- MD - UPTIME ‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *_UPTIME:➠_*
 *│  ◦* ${runtime(process.uptime())}
@@ -111,13 +110,10 @@ let status = `
 *│  ◦* *_HOSTNAME:➠_*
 *│  ◦* ${os.hostname()}
 *│  ◦*
-*│  ◦* *_PLATFORM:➠_*
-*│  ◦* ${process.env.DYNO ? "Heroku" : "Localhost"}
-*│  ◦*
 *╰┈───────────────•*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ ×͜×
 *•────────────•⟢*
 `
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:`${status}`},{quoted:mek})
@@ -141,21 +137,21 @@ try{
 let repo =`
 *[ •  B O T - O W N E R ‎ • ]*
 *╭┈───────────────•*
-*│  ◦* * 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶*
+*│  ◦* *⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ ×͜×*
 *╰┈───────────────•*
 
-*[ •  SHEIKH-ALI--MD - REPO ‎ • ]*
+*[ •  ⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ- MD - REPO ‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD*
+*│  ◦* *https://github.com/Hasn77392/Hassan_Rajpoot_MD.git*
 *╰┈───────────────•*
 
 *[ •  SUPPORT - GROUP‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B*
+*│  ◦* *https://chat.whatsapp.com/BobH0xeN4YQ6QAMELpk4i0*
 *╰┈───────────────•*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ ×͜×
 *•────────────•⟢*
 `
 await conn.sendMessage(from, { text: repo ,
@@ -166,15 +162,15 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "Sheikh-ali-2412",
+      newsletterName: "SILENTLOVER432",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SHEIKH-ALI-MD',
+title: 'SILENT-SOBX-MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD" ,
-thumbnailUrl: "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg" ,
+sourceUrl: "https://github.com/Hasn77392/Hassan_Rajpoot_MD.git*" ,
+thumbnailUrl: "https://github.com/Hasn77392/Hassan_Rajpoot_MD.git*" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }

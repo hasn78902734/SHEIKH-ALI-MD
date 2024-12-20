@@ -1,6 +1,6 @@
-/* 
-created by 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ 🕵
-contact me 923143702270 ♻️
+/*
+created by ⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ ×͜×
+contact me 923286813475
 © Copy coder alert ⚠
 */
 
@@ -21,7 +21,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD.git'; // لینک مخزن گیت‌هاب
+        const repoUrl = 'https://github.com/Hasn-78/Hassan_Rajpoot_MD.git*'; // لینک مخزن گیت‌هاب
         const targetFolder = 'plugins'; // پوشه‌ای که باید به‌روز شود
 
         // بررسی وجود پوشه هدف
