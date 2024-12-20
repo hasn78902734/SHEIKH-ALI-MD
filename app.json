@@ -1,7 +1,7 @@
 {
-  "name": "⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ- MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ⇝𝐻𝒶𝓈𝓈𝒶𝓃 ʀᴀᴊᴘ𝙾𝙾ᴛ ×͜×",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "name": "SHEIKH-ALI-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟɪᴀʜᴍᴀᴅ²⁴⁰⁶",
+  "logo": "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/h5ddpq.jpg"
+      "value": "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HII DEAR IM ONLINE.!!♻️"
+      "value": "HI DEAR I'M ONLINE I'M 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ WHATSAPP BOT 😊♻️"
     },
     
     "PREFIX": {
@@ -52,7 +52,7 @@
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -70,7 +70,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "FAKE_RECORDING": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "✦sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ✦"
     }, 
 
     "HEART_REACT": {
@@ -108,7 +108,23 @@
       "description": "Make it true if you want bot read your all sms just now.",
       "required": true,
       "value": "false"
+    }, 
+    "CAPTION": {
+      "description": "enter your caption if you want to show on menu.",
+      "required": true,
+      "value": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼"
+    }, 
+    "STATUS_REPLY": {
+      "description": "enter your caption if you want to show on status reply.",
+      "required": true,
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ♥️🌸⃝𝐂𝐮𝐭𝐞 𝐬𝐡𝐞𝐢𝐤𝐡ᥫ᭡👑"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "you can true or false it.",
+      "required": true,
+      "value": "true"
     }
+
 
 },
 
