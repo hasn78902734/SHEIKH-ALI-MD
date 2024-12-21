@@ -31,7 +31,7 @@ let desc = `
 
 > *SHEIKH-ALI-MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀɴsᴀʀ ᴋɪɴɢ* 
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟɪ ᴀʜᴍᴀᴅ···²⁴⁰⁶* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
