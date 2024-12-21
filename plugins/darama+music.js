@@ -2,7 +2,7 @@ const {cmd , commands} = require('../command')
 const fg = require('api-dylux')
 const yts = require('yt-search')
 cmd({
-    pattern: "play",
+    pattern: "play2",
     desc: "To download songs.",
     react: "🎵",
     category: "download",
@@ -31,7 +31,7 @@ let desc = `
 
 > *SHEIKH-ALI-MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀɴsᴀʀ ᴋɪɴɢ* 
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟɪ ᴀʜᴍᴀᴅ···²⁴⁰⁶* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
